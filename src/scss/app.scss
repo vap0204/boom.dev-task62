@@ -19,6 +19,12 @@ html {
   background: $background;
 }
 
+body {
+  color: $text-color;
+  background-color: $body-color;
+}
+
+
 .main {
   height: 100vh;
   display: flex;
